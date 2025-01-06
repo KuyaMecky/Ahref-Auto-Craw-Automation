@@ -20,7 +20,7 @@ To get started with this project, follow these steps:
     ```
 2. **Navigate to the project directory:**
     ```sh
-    cd your-repo
+    cd Ahref-Auto-Craw-Automation
     ```
 3. **Install dependencies:**
     ```sh
