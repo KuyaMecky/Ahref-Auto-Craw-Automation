@@ -16,7 +16,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/KuyaMecky/Ahref-Auto-Craw-Automation
     ```
 2. **Navigate to the project directory:**
     ```sh
@@ -57,7 +57,7 @@ To use the Ahrefs API, you need to create and find your API key:
 
 We welcome contributions to improve this project. To contribute, follow these steps:
 
-1. **Fork the repository:** [Fork Repository](https://github.com/your-username/your-repo/fork)
+1. **Fork the repository:** [Fork Repository](https://github.com/KuyaMecky/Ahref-Auto-Craw-Automation)
 2. **Create a new branch:**
     ```sh
     git checkout -b feature-branch
