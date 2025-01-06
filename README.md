@@ -57,7 +57,7 @@ To use the Ahrefs API, you need to create and find your API key:
 
 We welcome contributions to improve this project. To contribute, follow these steps:
 
-1. **Fork the repository:** [Fork Repository](https://github.com/KuyaMecky/Ahref-Auto-Craw-Automation)
+1. **Fork the repository:** [Fork Repository](https://github.com/KuyaMecky/Ahref-Auto-Craw-Automation/fork)
 2. **Create a new branch:**
     ```sh
     git checkout -b feature-branch
@@ -70,7 +70,7 @@ We welcome contributions to improve this project. To contribute, follow these st
     ```sh
     git push origin feature-branch
     ```
-5. **Create a new Pull Request:** [Create Pull Request](https://github.com/your-username/your-repo/pulls)
+5. **Create a new Pull Request:** [Create Pull Request](https://github.com/KuyaMecky/Ahref-Auto-Craw-Automation/pulls)
 
 ## License
 
